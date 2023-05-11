@@ -20,4 +20,12 @@ TYPESCRIPT:
 
 https://www.totaltypescript.com/tutorials/react-with-typescript
 
+GRAPHQL:
+
+SERVERLESS:
+
 NEXT.JS
+
+PERFORMANCE:
+
+TESTING:
