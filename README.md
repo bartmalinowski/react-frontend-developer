@@ -8,6 +8,9 @@ https://roadmap.sh/react
 
 HTML:
 
+SEO:
+https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/
+
 CSS:
 
 JAVASCRIPT:
@@ -27,5 +30,15 @@ SERVERLESS:
 NEXT.JS
 
 PERFORMANCE:
+https://www.patterns.dev
+https://twitter.com/rauchg/status/1652093972117073920
 
 TESTING:
+
+
+
+PROJECTS IDEAS:
+https://github.com/hkirat/project-ideas
+
+OTHER:
+https://www.30secondsofcode.org
