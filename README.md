@@ -2,13 +2,13 @@
 Welcome to our React development repository! We offer curated articles, tutorials, and resources for both beginners and advanced developers. Stay up-to-date with the latest trends and best practices. We encourage community contributions to create a comprehensive and valuable resource.
 
 
-ROADMAP:
-https://roadmap.sh/frontend
+ROADMAP:  <br/><br/>
+https://roadmap.sh/frontend <br/>
 https://roadmap.sh/react
 
 HTML:
 
-SEO:
+SEO:<br/><br/>
 https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/
 
 CSS:
@@ -19,8 +19,7 @@ REACT:
 
 TAILWIND:
 
-TYPESCRIPT:
-
+TYPESCRIPT: <br/><br/>
 https://www.totaltypescript.com/tutorials/react-with-typescript
 
 GRAPHQL:
@@ -29,16 +28,16 @@ SERVERLESS:
 
 NEXT.JS
 
-PERFORMANCE:
-https://www.patterns.dev
+PERFORMANCE:<br/><br/>
+https://www.patterns.dev <br/>
 https://twitter.com/rauchg/status/1652093972117073920
 
 TESTING:
 
 
 
-PROJECTS IDEAS:
+PROJECTS IDEAS: <br/><br/>
 https://github.com/hkirat/project-ideas
 
-OTHER:
+OTHER: <br/><br/>
 https://www.30secondsofcode.org
