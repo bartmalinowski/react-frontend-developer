@@ -16,6 +16,7 @@ CSS:
 JAVASCRIPT:
 
 REACT:
+https://react.gg/
 
 TAILWIND:
 
