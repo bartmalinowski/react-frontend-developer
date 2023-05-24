@@ -27,7 +27,10 @@ GRAPHQL:
 
 SERVERLESS:
 
-NEXT.JS
+NEXT.JS <br/><br/>
+https://www.youtube.com/watch?v=__mSgDEOyv8&t=327s
+https://www.youtube.com/watch?v=NgayZAuTgwM
+
 
 PERFORMANCE:<br/><br/>
 https://www.patterns.dev <br/>
